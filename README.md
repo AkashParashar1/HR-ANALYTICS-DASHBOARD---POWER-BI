@@ -67,3 +67,20 @@ The donut chart show the attrition rates segmented by gender within different ag
 
 
 
+## Dashboard Overview : 
+
+The HR Analytics Dashboard is a powerful Power BI-based tool designed to provide HR professionals with comprehensive insights into key HR metrics and trends. It combines visually appealing and interactive visualizations to enable data-driven decision-making, optimize HR processes, and enhance employee engagement.
+
+By leveraging the dashboard's key performance indicators (KPIs), HR professionals can track and analyze critical workforce data in real-time. This empowers them to identify patterns, trends, and potential areas of improvement within the organization.
+
+The dashboard includes various HR analytics charts and graphs. The Department-wise Attrition Pie Chart provides an overview of attrition distribution across departments. The No. of Employees by Age Group Column Chart displays age demographics within the organization, and the Job Satisfaction Rate Heat Map Chart highlights satisfaction levels across roles and departments. Additionally, the Education Field-wise Attrition Bar Graph shows attrition rates by educational background, and the Attrition Rate by Gender for Different Age Groups Donut Chart offers insights into attrition patterns across gender and age groups.
+
+The HR Analytics Dashboard offers a user-friendly interface, empowering HR professionals to explore the data interactively, filter information, and gain deeper insights. With this valuable tool, HR teams can make informed decisions, proactively address workforce challenges, and ultimately foster a positive work environment.<br>
+
+## NOTE :
+
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)<br>
+
+[Go to my LinkedIn](https://www.linkedin.com/in/akashparashar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnXsKzkjcQai8u%2BM2DJz2JA%3D%3D) 🌐
+
+
