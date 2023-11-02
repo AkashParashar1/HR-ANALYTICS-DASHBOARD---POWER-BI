@@ -65,6 +65,7 @@ The donut chart show the attrition rates segmented by gender within different ag
 
 ## DASHBOARD VIDEO : 
 
+https://github.com/AkashParashar1/HR-ANALYTICS-DASHBOARD---POWER-BI/assets/137527458/64f7b297-0e4d-4c6f-9ba5-84142d5ac790
 
 
 ## Dashboard Overview : 
