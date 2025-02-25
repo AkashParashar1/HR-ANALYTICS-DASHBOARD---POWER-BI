@@ -19,7 +19,7 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 ## Technologies Used :
 
 - 📈 Power BI
-- 🔢 Excel<br><br>
+- 🔢 Advanced Excel<br><br>
 
 ## Steps Overview :
 
