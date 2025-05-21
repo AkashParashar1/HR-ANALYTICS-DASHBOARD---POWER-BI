@@ -18,11 +18,11 @@ HR teams can use its capabilities to make smart decisions and effectively manage
 
 ## Technologies Used :
 
-🗂️ Amazon S3
-🔁 AWS Glue
-🔍 AWS Athena
-📊 Amazon QuickSight
-🔢 Advanced Excel (for initial data cleaning)<br><br>
+- 🗂️ Amazon S3
+- 🔁 AWS Glue
+- 🔍 AWS Athena
+- 📊 Amazon QuickSight
+- 🔢 Advanced Excel (for initial data cleaning)<br><br>
 
 ## Steps Overview :
 
