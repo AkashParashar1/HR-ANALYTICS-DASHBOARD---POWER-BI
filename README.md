@@ -77,13 +77,10 @@ This HR Analytics Dashboard built in AWS QuickSight provides HR teams with a pow
 
 The dashboard enables users to explore interactive insights on workforce distribution, attrition, job satisfaction, and demographic trends — all in real-time. It empowers HR teams to:
 
-Track key HR metrics dynamically
-
-Identify bottlenecks and improvement areas
-
-Make informed and proactive decisions
-
-With its user-friendly and interactive design, HR leaders can filter, drill-down, and interact with the data for deeper insights into organizational health.<br>
+- Track key HR metrics dynamically,
+- Identify bottlenecks and improvement areas,
+- Make informed and proactive decisions,
+- With its user-friendly and interactive design, HR leaders can filter, drill-down, and interact with the data for deeper insights into organizational health.<br>
 
 ## NOTE :
 
